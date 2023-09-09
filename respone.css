@@ -1,0 +1,142 @@
+@media only screen and (max-width:1440px){
+     .navbar_a{
+        display: none;
+    } 
+    
+    a.navbar-brand{
+        width: 55%;
+       }
+       .nav-link{
+              font-size: 16px;
+       }
+       .overlay{
+              width: 104.5%;
+       }
+       .text{
+              top:40%;
+       }
+       
+      }
+      @media only screen and (max-width:1024px){
+       .overlay{
+              width: 108%;
+       }
+       .text{
+              top: 44%;
+       }
+       a.navbar-brand{
+              width: 70%;
+             }
+             .logo{
+              width: 100%;
+             }
+             .nav-link{
+              font-size: 12px;
+       
+}
+      }
+
+
+@media only screen and (max-width:991px){
+       .overlay{
+              width: 109.5%;
+       }
+       .text{
+              top: 45%;
+       }
+       .text p{
+              font-size: 12px;
+       }
+       .over-btn{
+              font-size: 12px
+       }
+}
+
+
+
+@media only screen and (max-width:767px){
+       .overlay{
+              width: 110.9%;
+       }
+       .text {
+              top: 44%;
+       }
+       .text p{
+              font-size: 12px;
+       }
+       .over-btn{
+              font-size: 12px
+       }
+}
+@media only screen and (max-width: 840px){
+       .overlay{
+              width: 110.5%;
+       }
+       .text {
+              top: 44%;
+       }
+       .text p{
+              font-size: 12px;
+       }
+       .over-btn{
+              font-size: 12px
+       }
+       .logo{
+              width: 70%;
+             }
+             .nav-link{
+              font-size: 12px;
+       
+}
+}
+@media only screen and (max-width:540px) {
+    
+       .socail-text{
+        display: flex;
+        padding: 15px 20px;
+       }
+       .overlay{
+              width: 105.5%;
+       }
+}
+@media only screen and (max-width:412px){
+    
+       .socail-text{
+        display: flex;
+        padding: 15px 20px;
+        font-size: 14px;
+       }
+       .btn{
+              font-size: 14px;
+       }
+       .overlay{
+              width: 106.5%;
+       }
+}
+
+
+@media only screen and (max-width:414px){
+
+       .socail-text{
+        display: flex;
+        padding: 15px 20px;
+       }
+       .overlay{
+              width: 106.5%;
+       }
+}
+
+@media only screen and (max-width:375px){
+
+       .overlay{
+                width: 107.5%;
+         }  
+  }
+  
+
+@media only screen and (max-width:320px){
+
+     .overlay{
+              width: 108.5%;
+       }  
+}
